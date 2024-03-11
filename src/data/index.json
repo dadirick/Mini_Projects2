@@ -1,0 +1,72 @@
+{
+    "skills": [
+      {
+        "id": "1",
+        "src": "./images/make.jpg",
+        "title": "Make Up Artist",
+        "description": "With a decade of experience in the artistry of makeup, I possess a comprehensive skill set honed through years of working with diverse clients and mastering various techniques. My expertise lies in creating flawless and personalized looks that enhance natural beauty, reflecting a deep understanding of current trends and timeless aesthetics, and innovative approaches."
+      },
+      {
+        "id": "2",
+        "src": "./images/hair.jpg",
+        "title": "Hair Stylist",
+        "description": "As an expert hair stylist with years of seasoned experience, I bring a wealth of knowledge in crafting innovative and trendsetting hairstyles. My proficiency extends from precision cutting to intricate styling, ensuring each client receives a tailored and transformative experience that highlights their unique personality and enhances their individual beauty."
+      },
+      {
+        "id": "3",
+        "src": "./images/event.jpg",
+        "title": "Event Coordinator",
+        "description": "With a wealth of expert experience as an event coordinator, I seamlessly orchestrate memorable occasions by leveraging my meticulous planning and organizational prowess. My skill in curating seamless events ensures that every detail is meticulously managed, delivering unforgettable experiences that exceed client expectations."
+      },
+      {
+        "id": "4",
+        "src": "./images/Content-creator.png",
+        "title": "Content Creator",
+        "description": "As a versatile content creator specializing in makeup and hair styling, I merge artistic flair with technical expertise to produce engaging and educational content. With a keen eye for trends and a passion for creativity, I consistently deliver visually stunning tutorials and reviews, offering valuable insights to my audience in the ever-evolving world of beauty."
+      }
+    ],
+    "portfolio": [
+      {
+        "id": "1",
+        "src": "./images/portfolioImage.jpg",
+        "title": "PAGEANT"
+      },
+      {
+        "id": "2",
+        "src": "./images/portfolioImage1.jpg",
+        "title": "WEDDING"
+      },
+      {
+        "id": "3",
+        "src": "./images/portfolioImage2.jpg",
+        "title": "DEBUT"
+      }
+    ],
+    "testimonial": [
+      {
+        "id": "1",
+        "count": "5",
+        "src": "./images/cxAvatar.jpg",
+        "description": "Dear Fairy Godmothers, Thank you so much for making me Queen last night! grabe lang tlaga ung quality hair and make up. No bakbak and the hair, mygosh good for 1 week ata to even the crystals/gem stones on my face. Eto tlaga nagdala!",
+        "author_name": "Dianne Russel",
+        "author_designation": "Maid of Honor"
+      },
+      {
+        "id": "2",
+        "count": "5",
+        "src": "./images/cxAvatar1.jpg",
+        "description": "Thanks so much! Lahat sila ang feedback, atty in fairness po kay Dhel, we love our HMU! Sa uulitin!",
+        "author_name": "Kristin Watson",
+        "author_designation": "18th debut Celebrant"
+      },
+      {
+        "id": "3",
+        "count": "5",
+        "src": "./images/cxAvatar2.jpg",
+        "description": "Thank you Dhel Morales Hmua and your team for helping me look the best version of myself on my wedding day. You truly made me look and feel the most beautiful I've ever felt in my life! May God bless you more clients and Success in the future!",
+        "author_name": "Kathryn Murphy",
+        "author_designation": "Maid of Honor"
+      }
+    ]
+  }
+  
